@@ -1,0 +1,28 @@
+{
+  "name": "ng-name-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to export angular.js module name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesarandreu/ng-name-loader.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "webpack"
+  ],
+  "author": "Cesar Andreu <cesarandreu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesarandreu/ng-name-loader/issues"
+  },
+  "homepage": "https://github.com/cesarandreu/ng-name-loader",
+  "dependencies": {
+    "loader-utils": "^0.2.6",
+    "source-map": "^0.4.1"
+  }
+}
