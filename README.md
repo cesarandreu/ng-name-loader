@@ -5,7 +5,7 @@ Webpack loader to export angular.js module name
 ## Usage
 
 ```javascript
-require("ng-name?file!./file.js");
+require('ng-name?file!./file.js');
 // adds following code to file.js source:
 //  module.exports = 'file';
 ```
